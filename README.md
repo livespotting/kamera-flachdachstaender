@@ -4,16 +4,13 @@
     <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
   </a>
 </p>
-
-<iframe src="http://svenerbeck.com/dump/W-0040781.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
-
 <p align="center">
   A construction plan for a roof stand.
 </p>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  <a href="http://svenerbeck.com/dump/W-0040781.html">
+    <img alt="Download on the App Store" title="WebGl Demo" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
   <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
