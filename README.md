@@ -5,6 +5,8 @@
   </a>
 </p>
 
+<iframe src="http://svenerbeck.com/dump/W-0040781.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
+
 <p align="center">
   A construction plan for a roof stand.
 </p>
