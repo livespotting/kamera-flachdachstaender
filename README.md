@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://livespotting.com">
-    <img alt="Sponsor of the project" title="Sponsor" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
+    <img alt="Sponsor of the project" title="Sponsor livespotting.com" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  <a href="https://impressive.cam">
+    <img alt="Sponsor of the project" title="Sponsor impressive.cam" src="http://foss-gmbh.ch/images/logo-impressivecam.png" width="140">
   </a>
 </p>
 
