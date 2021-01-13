@@ -21,7 +21,8 @@
 - [Funktionen](#funktionen)
 - [Baugruppen](#baugruppen)
 - [Einzelteilestückliste](#einzelteilestückliste)
-- [Datein](#datein)
+- [Download](#download)
+- [Partner](#partner)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
@@ -67,7 +68,6 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 * Konstruktion kann für Wetterstation und weiter Kameras verwendet werden
 * Masthalterung zur Befestigung nutzen!
 
-
 <p align="center">
   <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
 </p>
@@ -110,6 +110,14 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 * STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
 
 URL/URL
+
+## Partner
+
+Sollten Sie keinen **Metalbauer** finden wenden Sie sich bitte direkt an <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
+in Deutschland.
+
+Für die **Logisik** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
+
 
 ## Feedback
 
