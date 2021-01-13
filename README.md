@@ -58,7 +58,7 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=400>
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-2.png?raw=true" width=250>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-2.png?raw=true" width=240>
 </p>
 
 ## Baugruppen
