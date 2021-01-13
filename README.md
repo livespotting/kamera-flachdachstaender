@@ -1,7 +1,6 @@
 <h1 align="center">Konstruktionspläne zur Befestigung von Netzwerkkameras auf Flachdächern</h1> <br>
 <p align="center">
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true">
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg" width=200>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=350>
 </p>
 <p align="center">
   Der livespotting Flachdachständer für Webcams ist 100% kostenlos, 100% Open Source und 100% #madeforlive!
