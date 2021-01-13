@@ -37,6 +37,8 @@ Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
+
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
