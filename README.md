@@ -28,17 +28,12 @@ Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist der FLa
 
 Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie können den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort, z.b in der HÖhe, anpassen. 
 
-  <a href="https://livespotting.com/">
-    <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
-  </a>
+<p align="center">
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=500>
+</p>
 
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
-
-<p align="center">
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=350>
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-2.png?raw=true" width=350>
-</p>
 
 ## Funktionen
 Was sind die Vorteile dieses Kameraständers für Flachdächer?
@@ -59,6 +54,11 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 * Konstruktion kann für Wetterstation und zusätzliche Kameras verwendet werden
 * Baupläne und Konstruktionszeichnun 100% Open Source
 * Kostenlos weltweit verfügbar
+
+<p align="center">
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=400>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-2.png?raw=true" width=250>
+</p>
 
 ## Baugruppen
 Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende der README.
