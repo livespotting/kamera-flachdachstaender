@@ -1,12 +1,11 @@
 <h1 align="center">Konstruktionspläne zur Befestigung von Netzwerkkameras auf Flachdächern</h1> <br>
 <p align="center">
-  <a href="https://gitpoint.com/">
-    <img alt="livespotting Dachständer" title="Flachdachständer für Netzwerkkameras" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
+  <a href="https://livespotting.com/">
+    <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
   </a>
 </p>
 <p align="center">
-  **Feuerverzinkt — vibrationsarm — effektiv** 100% kostenlos — 100% Open Source
-  Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FLachdachständer die einzige Möglichkeit. Mit den Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen, wie ein Metalbauer, die Konstruktion nutzen.
+  **Feuerverzinkt — vibrationsarm — effektiv — 100% kostenlos — 100% Open Source! Der livespotting Flachdachständer für Webcams!**
 </p>
 
 <p align="center">
@@ -35,18 +34,10 @@ Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FL
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
-
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
-
 Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Live-Streamign Projekt —  100% konstenlos — 100% Open Source. Sie dürfen den Ständer auf Ihre Bedurfnisse und Ihren Standort anpassen. 
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) 
+![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
 
 **Feuerverzinkt — vibrationsarm — effektiv**
 
