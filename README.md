@@ -5,6 +5,7 @@
   </a>
 </p>
 <p align="center">
+  **Feuerverzinkt — vibrationsarm — effektiv** 100% kostenlos — 100% Open Source
   Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FLachdachständer die einzige Möglichkeit. Mit den Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen, wie ein Metalbauer, die Konstruktion nutzen.
 </p>
 
@@ -29,8 +30,12 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Einleitung
+Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen, wie ein Metalbauer, unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar.
 
-Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht über Spedition angeliefert werden. Waschbetonplatten sind in jedem Baumarkt erhältlich.
+**Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
+Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flivespotting)
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
@@ -113,8 +118,8 @@ in Deutschland. [Werges Maschinenbau](https://www.werges.de/){:target="_blank"}
 
 Für die **Logisik** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
-## Feedback und Kontakt über unser Helpdesk
-Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
+## Feedback
+**Kontakt über unser Helpdesk!** Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
 
 **Schicken Sie uns ein Bild Ihrer Konstruktion zu! Wir veröffentlichen alles in diesem Repo und im social Media von livespotting.com mit einem Link auf Ihr Projekt.**
 
