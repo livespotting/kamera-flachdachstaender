@@ -39,7 +39,7 @@ Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
 [![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Live-Streamign Projekt —  100% konstenlos — 100% Open Source. Sie dürfen den Ständer auf Ihre Bedurfnisse und Ihren Standort anpassen. 
 
 **Feuerverzinkt — vibrationsarm — effektiv**
 
@@ -105,31 +105,16 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 * PDF - Für alle Baugruppen und Einzelteile
 * STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
 
-URL/URL
+URL/URL DOWNLOAD LINK ZIP
 
 ## Partner
-
 Sollten Sie keinen **Metalbauer** finden wenden Sie sich bitte direkt an <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
-in Deutschland.
+in Deutschland. [Werges Maschinenbau](https://www.werges.de/){:target="_blank"}
 
 Für die **Logisik** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890">
-
-## Feedback
-
-Feel free to send us feedback on [Twitter](https://twitter.com/datarhei) or [file an issue](https://github.com/datarhei/roof-stand/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to send mail to open@datarhei.com!
-
-## Backers [![Backers on Open Collective](https://opencollective.com/git-point/backers/badge.svg)](#backers)
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/git-point#backer)]
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
-
+## Feedback und Kontakt über unser Helpdesk
+Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
 
 ## Lizenz
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
