@@ -1,5 +1,5 @@
 <h1>Flat roof stand for professional webcams, network and surveillance cameras</h1> 
-<a href="https://github.com/livespotting/kamera-flachdachstaender/blob/main/README.md" target="_blank">Switch to 🇩🇪  German Version</a>
+<a href="https://github.com/livespotting/kamera-flachdachstaender/blob/main/README.md" target="_blank">Auf 🇩🇪  Deutsch wechseln</a>
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
