@@ -107,7 +107,8 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 * PDF - Für alle Baugruppen und Einzelteile
 * STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
 
-**URL/URL DOWNLOAD LINK ZIP HIER HIN**
+Download Datei über diesen Link: // Preview (SE 13.1.21)
+https://github.com/livespotting/kamera-flachdachstaender/blob/main/livespotting_kamerastaender_V_2_0.zip
 
 ## Partner
 ### Metallbau
