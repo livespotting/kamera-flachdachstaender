@@ -2,12 +2,9 @@
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
-Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstrukionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
-100% kostenlos, 100% Open Source und 100% #madeforlive** 
-<br>
-> 
-> **Schicke uns ein Bild deiner Konstruktion! Wir veröffentlichen alles in diesem GitHub Repo und über livespotting.com mit einem Link auf das Projekt.**
-> 
+Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwenk-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht Standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstruktionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
+
+<h2>100% kostenlos, 100% Open Source und 100% #madeforlive** </h2>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -24,15 +21,20 @@ Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Nei
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+> 
+> **Schicken Sie uns ein Bild ihrer Konstruktion! Wir veröffentlichen alles in diesem GitHub Repo und über livespotting.com mit einem Link das Projekt.**
+> 
+
+
 ## Lizenz
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
 
 ## Einleitung
-Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Durch die notwendigkeit einer schweren vibrationsarmen Konstruktion ist der Aufwand für den Bau und Transport des sperrigen Teils zum Instatllationsort sehr hoch. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen und Vor-Ort bauen lassen. Der Transport und Installationsaufwand wird niedrig und durch die fertigen Baupläne ist eine schnelle Umsetzung gesichert. Die frei vefügbaren Dateien sind von Profies nach ISO erstellt und sind in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
+Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss, ist ein Flachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Durch die Notwendigkeit einer schweren vibrationsarmen Konstruktion ist der Aufwand für den Bau und Transport des sperrigen Teils zum Installationsort sehr hoch. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen und Vor-Ort bauen lassen. Der Transport und Installationsaufwand wird niedrig und durch die fertigen Baupläne ist eine schnelle Umsetzung gesichert. Die frei verfügbaren Dateien sind von Profis nach ISO erstellt und sind in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden, zum Metallbauer Vor-Ort oder der eigenen Werkstatt  geben und unkompliziert produzieren lassen. 
 
-Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung in ungezählten Projekten und nutzen Sie unsere Konstruktionszeichnung für Ihr Projekt. Der Ständer kann auf individuelle Bedürfnisse am Installationsort, z.b in der HÖhe, anpassen oder optimiert werden. 
+Verlassen Sie sich auf unsere mehr als 10-jährige Erfahrung in ungezählten Projekten und nutzen Sie unsere Konstruktionszeichnung für Ihr Projekt. Der Ständer kann auf individuelle Bedürfnisse am Installationsort, z.b in der Höhe, anpassen oder optimiert werden. 
 
-Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. Viele Kunden nutzen das Flachdachstativ für die Installation von Richtfunkantennen,  Wetterstationen oder Vogelhäusern ...
+Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. Viele Kunden nutzen das Flachdachstativ für die Installation von Richtfunkantennen,  Wetterstationen oder Vogelhäusern ...
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=350>
@@ -46,21 +48,21 @@ Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer
 Was sind die Vorteile dieses Kameraständers von für Flachdächer?
 
 * Vibrationsarme Konstruktion
-* Für schwere Kameras 20kg+ geeignet
+* Für schwere Kameras 20 kg+ geeignet
 * Feuerverzinkung garantiert lange Haltbarkeit
 * Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf leichten Schrägen
 * Feinjustage für einen geraden Horizont möglich
 * Benötigt nicht viel Platz beim Transport
 * Kann in Einzelteilen transportiert werden
 * Einfacher schneller Zusammenbau
-* Installation der Netzwerkkamera ohne Bohren 
+* Installation der Netzwerkkamera ohne Bohren 
 * Es werden ausschließlich verfügbare Industrieteile genutzt
-* Standard Waschbetonplatten zum beschweren 
+* Standard Waschbetonplatten zum Beschweren 
 * Lasercut optimierte Baupläne
 * Höhe kann individuell geplant werden
 * Handelsübliche Masthalterung zur Befestigung der Kamera verwenden
 * Konstruktion kann für Wetterstation und zusätzliche Kameras verwendet werden
-* Baupläne und Konstruktionszeichnun 100% Open Source
+* Baupläne und Konstruktionszeichnung 100 % Open Source
 * Kostenlos weltweit verfügbar
 
 <p align="center">
@@ -69,7 +71,7 @@ Was sind die Vorteile dieses Kameraständers von für Flachdächer?
 </p>
 
 ## Baugruppen
-Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende der README.
+Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende dieser README.
 
 | Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
 |---------------------------	|---------------------	|-----------	|------------------	|
@@ -80,7 +82,7 @@ Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfil
 |                           	|                     	|           	|                  	|
 
 ## Einzelstückliste
-Ein vollständiges Liste der Eizelstücklste befindet sich als PDF in dem Downloadfile am Ende der README.
+Ein vollständiges Liste der Eizelstückliste befindet sich als PDF in dem Downloadfile.
 
 | Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
 |---------------------------	|---------------------------------------	|-----------	|-----------------	|------------------	|
@@ -108,7 +110,7 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
 ## Partner
-### Metalbau
+### Metallbau
 Sollten Sie keine geeignete Firma für die Konstruktion finden, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
 in Deutschland als zuverlässigen Partner: https://www.werges.de/.
 ### Logistik
