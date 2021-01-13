@@ -75,6 +75,17 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
   <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
 
+## Baugruppen
+Ein PDF der Baugruppen befindet sich in dem Downloadfile
+
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
+|---------------------------	|---------------------	|-----------	|------------------	|
+| W-0040781                 	| MBG Kamerahalterung 	| 1         	| Montagebaugruppe 	|
+| W-0040772                 	| SBG Gestell         	| 1         	| Schweißbaugruppe 	|
+| W-0040809                 	| SBG Grundrahmen     	| 1         	| Schweißbaugruppe 	|
+| W-0040770                 	| SBG Rohr            	| 1         	| Schweißbaugruppe 	|
+|                           	|                     	|           	|                  	|
+
 ## Feedback
 
 Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
