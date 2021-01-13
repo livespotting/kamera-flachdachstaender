@@ -113,7 +113,7 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 Sollten Sie keine geeignete Firma für die Konstruktion finden, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
 in Deutschland als zuverlässigen Partner: https://www.werges.de/.
 ### Logistik
-* Für den **Transport** empfehlen wir unseren Kunden <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
+Für den längeren **Transport** empfehlen wir als ersten Ansprechpartner <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
 ## Kontakt
 Feedback oder Fragen über unserer Helpdesk via [Mail](mailto:support@livespotting.com). Gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
@@ -121,7 +121,7 @@ Feedback oder Fragen über unserer Helpdesk via [Mail](mailto:support@livespotti
 ## Social Media
 Seit über 10 Jahren bietet livespotting.com Streaming-Lösungen für Tourismus, Hotels, Resorts, Vergnügungsparks, Naturschutzgebiete und mehr. Neben der Wartung eines Netzwerks von über 200 Live-Webcams ist livespotting auf die Software-Entwicklung und Installation von anspruchsvollen Live-Streaming-Lösungen spezialisiert. <a href="https://www.google.com/search?ei=i7GJX5b4E7LjkgXwq6PoBA&q=madeforlive&oq=madeforlive&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMggIABAIEA0QHjIICAAQCBANEB4yCAgAEAgQDRAeMggIABAIEA0QHjoGCAAQFhAeOggIABAWEAoQHjoFCAAQsQM6BAguEEM6AggAOggILhCxAxCDAToHCC4QQxCTAjoHCAAQsQMQQzoECAAQQzoFCC4QsQM6BwguELEDEEM6CAgAELEDEIMBOgYIABAKEEM6BAgAEAo6BAguEAo6BggAEAoQHlC9Klj1MmC8NWgAcAB4AYAB2AGIAaAKkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjW6fDKrLnsAhWysaQKHfDVCE0Q4dUDCA0&uact=5" target="_blank">#madeforlive</a>
 
-###🌎  Follow livespotting.com
+### 🌎 Follow livespotting.com
 ● <a href="https://www.google.com/search?source=hp&ei=quORX6PpMvLGxgPoxr0I&q=livespotting&oq=livespotting&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAELEDEIMBOgUIABCxAzoCCC46CAguELEDEIMBOgUILhCxAzoLCC4QsQMQgwEQkwI6BAgAEApKBQgHEgExSgUICRIBMVDRCliFFmCkF2gAcAB4AIABW4gBtgeSAQIxMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwij5rXB_cjsAhVyo3EKHWhjDwEQ4dUDCAc&uact=5" target="_blank">livespotting bei Google</a> 
 ● Hashtag <a href="https://facebook.livespotting.com" target="_blank">#madeforlive</a>
 ● Facebook <a href="https://facebook.livespotting.com" target="_blank">https://facebook.livespotting.com</a>
