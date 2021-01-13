@@ -35,7 +35,7 @@ Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FL
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flivespotting)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting)
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
