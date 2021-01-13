@@ -68,11 +68,7 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
-
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
 </p>
 
 ## Baugruppen
