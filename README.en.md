@@ -14,7 +14,7 @@ With the practical livespotting flat roof stand, you can mount your pan-tilt cam
 - [Introduction](#introduction)
 - [Function](#funkctionen)
 - [Assemblies](#assemblies)
-- [Single-Part]](#single-part)
+- [Part]](#part)
 - [Download](#download)
 - [Partner](#partner)
 - [Contact](#contact)
@@ -81,7 +81,7 @@ A complete list of assemblies can be found as a PDF in the download file at the 
 | W-0040770                 	| SBG Rohr            	| 1         	| Schweißbaugruppe 	|
 |                           	|                     	|           	|                  	|
 
-## Single-Part
+## Part
 A complete list of the egg parts list can be found as a PDF in the download file.
 
 | Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
