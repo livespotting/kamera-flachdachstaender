@@ -11,13 +11,6 @@
 <p align="center">
   <a href="https://livespotting.com">
     <img alt="Sponsor of the project" title="Sponsor livespotting.com" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
-  </a>
-  <a href="https://impressive.cam">
-    <img alt="Sponsor of the project" title="Sponsor impressive.cam" src="http://foss-gmbh.ch/images/logo-impressivecam.png" width="140">
-  </a>
-  <a href="https://datarhei.com">
-    <img alt="Sponsor of the project" title="Sponsor datarhei.com" src="http://foss-gmbh.ch/images/logo-datarhei.png" width="140">
-  </a>
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -26,16 +19,20 @@
 
 - [Einleitung](#einleitung)
 - [Funktionen](#funktionen)
+- [Baugruppen](#baugruppen)
+- [Einzelteilestückliste](#einzelteilestückliste)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
 - [Backers](#backers-)
 - [Sponsoren](#sponsoren-)
-- [Acknowledgments](#acknowledgments)
+- [Lizenz](#lizenz)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Einleitung
+
+Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht über Spedition angeliefert werden. Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
@@ -53,18 +50,21 @@ View repository and user information, control your notifications and even manage
 </p>
 
 ## Funktionen
+Was sind die Vorteile dieses Kameraständers für Flachdächer?
 
-A few of the things you can do with GitPoint:
+* Vibrationsarme Konstruktion
+* Feuerverzinkung garantiert lange Haltbarkeit
+* Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf schräg
+* Feinjustage über Schrauben
+* Einfache Montage
+* Kann in Einzelteilen transportiert werden
+* Es werden ausschließlich verfügbare Industrieteile genutzt
+* Standard Waschbetonplatten zum beschweren 
+* Lasercut optimierte Baupläne
+* Höhe kann individuell geplant werden
+* Konstruktion kann für Wetterstation und weiter Kameras verwendet werden
+* Masthalterung zur Befestigung nutzen!
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
