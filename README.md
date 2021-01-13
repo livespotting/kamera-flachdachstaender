@@ -116,5 +116,7 @@ Für die **Logisik** empfehlen wir <a href="https://www.lemmtransporte.de/" targ
 ## Feedback und Kontakt über unser Helpdesk
 Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
 
+**Schicken Sie uns ein Bild Ihrer Konstruktion zu! Wir veröffentlichen alles in diesem Repo und im social Media von livespotting.com mit einem Link auf Ihr Projekt.**
+
 ## Lizenz
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
