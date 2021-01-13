@@ -17,7 +17,7 @@ With the practical livespotting flat roof stand, you can mount your pan-tilt cam
 - [Single Part List]](#single-part-list)
 - [Download](#download)
 - [Partner](#partner)
-- [Contact & Feedback](#contact)
+- [Contact](#contact)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -118,7 +118,7 @@ in Germany as a reliable partner: https://www.werges.de/.
 ### Logistics
 For the longer **transport** we recommend <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a> as first contact.
 
-## Contact & Feedback
+## Contact
 Feedback or questions via our helpdesk via [mail](mailto:support@livespotting.com). Gladly directly on GitHub [file an issue](https://github.com/livespotting/kamera-flachdachstaender/issues/new). If you are a designer feel free to add your suggestions to the open source roof rack project. 
 
 ## Social Media
