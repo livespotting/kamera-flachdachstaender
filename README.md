@@ -3,14 +3,18 @@
   <a href="https://livespotting.com/">
     <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
   </a>
+  
+  <p align="center">
+  <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
+</p>
 </p>
 <p align="center">
-  **Feuerverzinkt — vibrationsarm — effektiv — 100% kostenlos — 100% Open Source! Der livespotting Flachdachständer für Webcams!**
+  Der livespotting Flachdachständer für Webcams ist 100% kostenlos, 100% Open Source und 100% #madeforlive!
 </p>
 
 <p align="center">
   <a href="https://livespotting.com">
-    <img alt="Sponsor of the project" title="Sponsor livespotting.com" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
+    <img alt="Projektsponsor ist livespotting.com" title="Sponsor der Baupläne ist livespotting.com" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -34,7 +38,7 @@ Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FL
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
-Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Live-Streamign Projekt —  100% konstenlos — 100% Open Source. Sie dürfen den Ständer auf Ihre Bedurfnisse und Ihren Standort anpassen. 
+Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie dürfen den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort anpassen.
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
@@ -50,17 +54,20 @@ Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnun
 Was sind die Vorteile dieses Kameraständers für Flachdächer?
 
 * Vibrationsarme Konstruktion
+* Für schwere Kameras 20kg+ geeignet
 * Feuerverzinkung garantiert lange Haltbarkeit
-* Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf schräg
-* Feinjustage über Schrauben
-* Einfache Montage
+* Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf Schrägen
+* Feinjustage für gerade Horizont über Schrauben möglich
 * Kann in Einzelteilen transportiert werden
+* Einfacher Zusammenbau
+* Schnelle Installation der Netzwerkkamera
 * Es werden ausschließlich verfügbare Industrieteile genutzt
 * Standard Waschbetonplatten zum beschweren 
 * Lasercut optimierte Baupläne
 * Höhe kann individuell geplant werden
-* Konstruktion kann für Wetterstation und weiter Kameras verwendet werden
-* Masthalterung zur Befestigung nutzen!
+* Handelsübliche Masthalterung zur Befestigung der Kamera verwenden
+* Konstruktion kann für Wetterstation und zusätzliche Kameras verwendet werden
+
 
 <p align="center">
   <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
@@ -103,7 +110,7 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 * PDF - Für alle Baugruppen und Einzelteile
 * STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
 
-URL/URL DOWNLOAD LINK ZIP
+**URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
 ## Partner
 Sollten Sie keinen **Metalbauer** finden wenden Sie sich bitte direkt an <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
