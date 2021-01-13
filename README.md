@@ -2,9 +2,8 @@
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
+<h2>100% kostenlos, 100% Open Source und 100% #madeforlive</h2>
 Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwenk-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht Standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstruktionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
-
-<h2>100% kostenlos, 100% Open Source und 100% #madeforlive** </h2>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
