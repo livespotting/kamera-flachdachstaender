@@ -1,12 +1,6 @@
 <h1 align="center">Konstruktionspläne zur Befestigung von Netzwerkkameras auf Flachdächern</h1> <br>
-<p align="center">
-  <a href="https://livespotting.com/">
-    <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
-  </a>
-  
-  <p align="center">
+<p align="center">  
   <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
-</p>
 </p>
 <p align="center">
   Der livespotting Flachdachständer für Webcams ist 100% kostenlos, 100% Open Source und 100% #madeforlive!
@@ -34,6 +28,10 @@
 
 ## Einleitung
 Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen, wie ein Metalbauer, unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar.
+
+  <a href="https://livespotting.com/">
+    <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
+  </a>
 
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
