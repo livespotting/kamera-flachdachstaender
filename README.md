@@ -21,6 +21,7 @@
 - [Funktionen](#funktionen)
 - [Baugruppen](#baugruppen)
 - [Einzelteilestückliste](#einzelteilestückliste)
+- [Datein](#datein)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
@@ -99,6 +100,16 @@ Ein vollständiges Liste der Eizelstücklste befindet sich als PDF in dem Downlo
 | 1003530                   	| Scheibe DIN 125 - A 17                	| 16        	| Legierter Stahl 	| Norm-Teil        	|
 | 1011489                   	| Sechskantmutter ISO 4035 - M16        	| 12        	| Legierter Stahl 	| Norm-Teil        	|
 |                           	|                                       	|           	|                 	|                  	|
+
+## Download 
+In der Downloadatei befinden sich alle Dateien die für eine professionelle Umsetzung notwendig sind.
+
+* DXF - Drawing Interchange File Format (DXF) ist ein von Autodesk spezifiziertes Dateiformat zum CAD-Datenaustausch und wurde in das CAD-Programm AutoCAD integriert
+* Excel - Baugruppenstückliste und Einzeltteilestückliste im Tabellenformat als ODS-Datei
+* PDF - Für alle Baugruppen und Einzelteile
+* STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
+
+URL/URL
 
 ## Feedback
 
