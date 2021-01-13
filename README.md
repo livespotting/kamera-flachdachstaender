@@ -1,8 +1,8 @@
-<h1>Konstruktionspläne für einen Flachdachständer zur Befestigung von Webcams</h1> <br>
+<h1>Konstruktionspläne eines Flachdachständers zur Befestigung von Webcams</h1> <br>
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
-<h2>Der livespotting.com Flachdachständer für Netzwerkkameras ist 100% kostenlos, 100% Open Source und 100% #madeforlive!</h2>
+<h2>Der livespotting.com Flachdachständer für die Installation von Netzwerkkameras auf ebenen Flächen ist 100% kostenlos, 100% Open Source und 100% #madeforlive!</h2>
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) ![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
 
@@ -22,16 +22,18 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Einleitung
-Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist der FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
+Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Durch die notwendigkeit einer schweren vibrationsarmen Konstruktion ist der Aufwand für den Bau und Transport des sperrigen Teils zum Instatllationsort sehr hoch. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen und Vor-Ort bauen lassen. Der Transport und Installationsaufwand wird niedrig und durch die fertigen Baupläne ist eine schnelle Umsetzung gesichert. Die frei vefügbaren Dateien sind von Profies nach ISO erstellt und sind in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
 
-Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Der Ständer kann auf individuellen Bedürfnisse und den Standort, z.b in der HÖhe, anpassen. Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. Es können Funkantennen oder Wetterstationen befestigt werden.
+Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung in ungezählten Projekten und nutzen Sie unsere Konstruktionszeichnung für Ihr Projekt. Der Ständer kann auf individuelle Bedürfnisse am Installationsort, z.b in der HÖhe, anpassen oder optimiert werden. 
+
+Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. Viele Kunden nutzen das Flachdachstativ für die Installation von Richtfunkantennen,  Wetterstationen oder Vogelhäusern ...
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=350>
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
 </p>
 
-ℹ️ **Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
+ℹ️ &bnsp **Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 ## Funktionen
