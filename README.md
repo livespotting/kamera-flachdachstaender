@@ -12,28 +12,30 @@
   <a href="https://livespotting.com">
     <img alt="Sponsor of the project" title="Sponsor livespotting.com" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
   </a>
-
   <a href="https://impressive.cam">
     <img alt="Sponsor of the project" title="Sponsor impressive.cam" src="http://foss-gmbh.ch/images/logo-impressivecam.png" width="140">
+  </a>
+  <a href="https://datarhei.com">
+    <img alt="Sponsor of the project" title="Sponsor datarhei.com" src="http://foss-gmbh.ch/images/logo-datarhei.png" width="140">
   </a>
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## Inhaltsverzeichnis
 
-- [Introduction](#introduction)
-- [Features](#features)
+- [Einleitung](#einleitung)
+- [Funktionen](#funktionen)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
 - [Backers](#backers-)
-- [Sponsors](#sponsors-)
+- [Sponsoren](#sponsoren-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction
+## Einleitung
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
 [![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
@@ -50,7 +52,7 @@ View repository and user information, control your notifications and even manage
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
 </p>
 
-## Features
+## Funktionen
 
 A few of the things you can do with GitPoint:
 
@@ -101,7 +103,7 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 <a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
 
-## Sponsors [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsors)
+## Sponsoren [![Sponsors on Open Collective](https://opencollective.com/git-point/sponsors/badge.svg)](#sponsoren)
 
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/git-point#sponsor)]
 
@@ -116,6 +118,8 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/git-point/sponsor/8/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/git-point/sponsor/9/website" target="_blank"><img src="https://opencollective.com/git-point/sponsor/9/avatar.svg"></a>
 
-## Acknowledgments
+## Lizenz
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Thanks to [Creative Commons](https://www.livespotting.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
