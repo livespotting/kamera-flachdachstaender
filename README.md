@@ -1,10 +1,12 @@
-<h1>Konstruktionspläne eines Flachdachständers zur Befestigung von Webcams</h1> <br>
+<h1>Flachdachständer für professionelle Webcams, Netzwerk- und Überwachungskameras</h1> <br>
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
-<h2>Der livespotting.com Flachdachständer für die Installation von Netzwerkkameras auf ebenen Flächen ist 100% kostenlos, 100% Open Source und 100% #madeforlive!</h2>
+Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstrukionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
+**100% kostenlos, 100% Open Source und 100% #madeforlive**
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) ![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting)
+![YouTube URL](https://img.shields.io/youtube/url?style=social&url=https://youtube.com/c/livespotting)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
