@@ -1,4 +1,5 @@
-<h1>Flachdachständer für professionelle Webcams, Netzwerk- und Überwachungskameras</h1> <br>
+<h1>Flachdachständer für professionelle Webcams, Netzwerk- und Überwachungskameras</h1>
+<a href="https://github.com/livespotting/kamera-flachdachstaender/blob/main/README.en.md" target="_blank">Switch to 🇩🇪  English version</a>
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
