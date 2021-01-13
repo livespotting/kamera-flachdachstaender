@@ -14,7 +14,7 @@ With the practical livespotting flat roof stand, you can mount your pan-tilt cam
 - [Introduction](#introduction)
 - [Function](#funkctionen)
 - [Assemblies](#assemblies)
-- [Part]](#part)
+- [Part](#part)
 - [Download](#download)
 - [Partner](#partner)
 - [Contact](#contact)
