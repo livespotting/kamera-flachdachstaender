@@ -1,4 +1,4 @@
-<h1 align="center">Konstruktionspläne eines Flachdachständers für Netzwerkkameras</h1> <br>
+<h1 align="center">Konstruktionspläne zur Befestigung von Netzwerkkameras auf Flachdächern</h1> <br>
 <p align="center">
   <a href="https://gitpoint.com/">
     <img alt="livespotting Dachständer" title="Flachdachständer für Netzwerkkameras" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="http://svenerbeck.com/dump/W-0040781.html">
-    <img alt="Download on the App Store" title="WebGl Demo" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  <a href="https://livespotting.com">
+    <img alt="Sponsor of the project" title="Sponsor" src="https://github.com/datarhei/roof-stand/blob/main/Livespotting%20Logo%20Blau.png?raw=true" width="140">
   </a>
 
   <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
