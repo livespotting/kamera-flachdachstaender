@@ -76,7 +76,7 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 </p>
 
 ## Baugruppen
-Ein PDF der Baugruppen befindet sich in dem Downloadfile
+Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende der README.
 
 | Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
 |---------------------------	|---------------------	|-----------	|------------------	|
@@ -87,6 +87,7 @@ Ein PDF der Baugruppen befindet sich in dem Downloadfile
 |                           	|                     	|           	|                  	|
 
 ## Einzelstückliste
+Ein vollständiges Liste der Eizelstücklste befindet sich als PDF in dem Downloadfile am Ende der README.
 
 | Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
 |---------------------------	|---------------------------------------	|-----------	|-----------------	|------------------	|
@@ -105,9 +106,9 @@ Ein PDF der Baugruppen befindet sich in dem Downloadfile
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send us feedback on [Twitter](https://twitter.com/datarhei) or [file an issue](https://github.com/datarhei/roof-stand/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
+If there's anything you'd like to chat about, please feel free to send mail to open@datarhei.com!
 
 ## Contributors
 
