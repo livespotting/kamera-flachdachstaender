@@ -86,6 +86,23 @@ Ein PDF der Baugruppen befindet sich in dem Downloadfile
 | W-0040770                 	| SBG Rohr            	| 1         	| Schweißbaugruppe 	|
 |                           	|                     	|           	|                  	|
 
+## Einzelstückliste
+
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
+|---------------------------	|---------------------------------------	|-----------	|-----------------	|------------------	|
+| W-0040762                 	| Winkel                                	| 4         	| S235JR          	| Laser-/ Kantteil 	|
+| W-0040764                 	| Grundblech                            	| 1         	| S235JR          	| Laserteil        	|
+| W-0040765                 	| Flacheisen 2                          	| 1         	| S235JR          	| Laserteil        	|
+| W-0040766                 	| Flacheisen 1                          	| 1         	| S235JR          	| Laserteil        	|
+| W-0040767                 	| Anschraubplatte                       	| 1         	| S235JR          	| Laserteil        	|
+| W-0040768                 	| Rundrohr                              	| 1         	| S235JR          	| Zuschnittsteil   	|
+| W-0040769                 	| Abspannlasche                         	| 4         	| S235JR          	| Laserteil        	|
+| W-0040810                 	| Anschraubplatte                       	| 1         	| S235JR          	| Laserteil        	|
+| 1004062                   	| Sechskantschraube ISO 4014 - M16 x 80 	| 4         	| Legierter Stahl 	| Norm-Teil        	|
+| 1003530                   	| Scheibe DIN 125 - A 17                	| 16        	| Legierter Stahl 	| Norm-Teil        	|
+| 1011489                   	| Sechskantmutter ISO 4035 - M16        	| 12        	| Legierter Stahl 	| Norm-Teil        	|
+|                           	|                                       	|           	|                 	|                  	|
+
 ## Feedback
 
 Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
