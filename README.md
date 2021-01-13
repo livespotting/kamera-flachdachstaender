@@ -29,7 +29,8 @@ Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist der FLa
 Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie können den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort, z.b in der HÖhe, anpassen. 
 
 <p align="center">
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=500>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=350>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
 </p>
 
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
