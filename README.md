@@ -33,7 +33,7 @@ Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. 
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
 </p>
 
-ℹ️ &bnsp **Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
+**Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 ## Funktionen
