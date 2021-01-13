@@ -6,6 +6,7 @@
   Der livespotting Flachdachständer für Webcams ist 100% kostenlos, 100% Open Source und 100% #madeforlive!
 </p>
 
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) ![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -23,7 +24,9 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Einleitung
-Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen, wie ein Metalbauer, unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar.
+Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist der FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
+
+Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie können den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort, z.b in der HÖhe, anpassen. 
 
   <a href="https://livespotting.com/">
     <img alt="livespotting Dachständer" title="Konstruktion eines Flachdachständers für Netzwerkkameras und Wetterstationen" src="https://github.com/datarhei/roof-stand/blob/main/image002(1).jpg?raw=true" width="450">
@@ -31,13 +34,6 @@ Wenn Sie eine Netzwerkkamera auf einem Flachdach installieren müssen ist ein FL
 
 **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
-
-Verlassen Sie sich auf unsere Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie dürfen den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort anpassen.
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) 
-![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
-
-**Feuerverzinkt — vibrationsarm — effektiv**
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=350>
@@ -61,11 +57,8 @@ Was sind die Vorteile dieses Kameraständers für Flachdächer?
 * Höhe kann individuell geplant werden
 * Handelsübliche Masthalterung zur Befestigung der Kamera verwenden
 * Konstruktion kann für Wetterstation und zusätzliche Kameras verwendet werden
-
-
-<p align="center">
-  <img src = "https://media.giphy.com/media/8RaIRPc4PNkfkrCABo/giphy.gif" width=700>
-</p>
+* Baupläne und Konstruktionszeichnun 100% Open Source
+* Kostenlos weltweit verfügbar
 
 ## Baugruppen
 Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende der README.
@@ -107,10 +100,10 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
 ## Partner
-Sollten Sie keinen **Metalbauer** finden wenden Sie sich bitte direkt an <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
+Sollten Sie keinen **Metalbauer** finden oder keine Werkstatt im Betrieb haben, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
 in Deutschland. [Werges Maschinenbau](https://www.werges.de/){:target="_blank"}
 
-Für die **Logisik** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
+Für den **Transport** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
 ## Feedback
 **Kontakt über unser Helpdesk!** Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
