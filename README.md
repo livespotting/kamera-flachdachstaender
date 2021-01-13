@@ -1,8 +1,8 @@
-<h1>Konstruktionspläne für einen Flachdachständer zur Befestigung von Netzwerkkameras</h1> <br>
+<h1>Konstruktionspläne für einen Flachdachständer zur Befestigung von Webcams</h1> <br>
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
-<h2>Der livespotting.com Flachdachständer für Webcams ist 100% kostenlos, 100% Open Source und 100% #madeforlive!</h2>
+<h2>Der livespotting.com Flachdachständer für Netzwerkkameras ist 100% kostenlos, 100% Open Source und 100% #madeforlive!</h2>
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting) ![Twitter Follow](https://img.shields.io/twitter/follow/livespotting?style=social)
 
@@ -24,27 +24,28 @@
 ## Einleitung
 Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist der FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen. Die frei vefügbaren Dateien sind direkt in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
 
-Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Sie können den Ständer auf Ihre individuellen Bedürfnisse und Ihren Standort, z.b in der HÖhe, anpassen. 
+Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die Konstruktionszeichnung für Ihr Projekt. Der Ständer kann auf individuellen Bedürfnisse und den Standort, z.b in der HÖhe, anpassen. Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. Es können Funkantennen oder Wetterstationen befestigt werden.
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=350>
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
 </p>
 
-ℹ️ **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
+ℹ️ **Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 ## Funktionen
-Was sind die Vorteile dieses Kameraständers für Flachdächer?
+Was sind die Vorteile dieses Kameraständers von für Flachdächer?
 
 * Vibrationsarme Konstruktion
 * Für schwere Kameras 20kg+ geeignet
 * Feuerverzinkung garantiert lange Haltbarkeit
-* Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf Schrägen
-* Feinjustage für gerade Horizont über Schrauben möglich
+* Zusätzliche Abspannlaschen bieten noch mehr Sicherheit auf leichten Schrägen
+* Feinjustage für einen geraden Horizont möglich
+* Benötigt nicht viel Platz beim Transport
 * Kann in Einzelteilen transportiert werden
-* Einfacher Zusammenbau
-* Schnelle Installation der Netzwerkkamera
+* Einfacher schneller Zusammenbau
+* Installation der Netzwerkkamera ohne Bohren 
 * Es werden ausschließlich verfügbare Industrieteile genutzt
 * Standard Waschbetonplatten zum beschweren 
 * Lasercut optimierte Baupläne
@@ -100,7 +101,7 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 
 ## Partner
 Sollten Sie keinen **Metalbauer** finden oder keine Werkstatt im Betrieb haben, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
-in Deutschland. [Werges Maschinenbau](https://www.werges.de/){:target="_blank"}
+in Deutschland. [Werges Maschinenbau](https://www.werges.de/)
 
 Für den **Transport** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
