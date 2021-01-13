@@ -4,10 +4,9 @@
 </p>
 Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstrukionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
 100% kostenlos, 100% Open Source und 100% #madeforlive** 
-
-
+<br>
 > 
-> **Schicken Sie uns ein Bild Ihrer Konstruktion zu! Wir veröffentlichen alles in diesem Repo und im social Media von livespotting.com mit einem Link auf Ihr Projekt.**
+> **Schicke uns ein Bild deiner Konstruktion! Wir veröffentlichen alles in diesem GitHub Repo und über livespotting.com mit einem Link auf das Projekt.**
 > 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -21,7 +20,7 @@ Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Nei
 - [Einzelteilestückliste](#einzelteilestückliste)
 - [Download](#download)
 - [Partner](#partner)
-- [Feedback](#feedback)
+- [Kontakt und Fedback](#kontakt)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -109,13 +108,14 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
 ## Partner
+### Metalbau
 Sollten Sie keine geeignete Firma für die Konstruktion finden, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
-in Deutschland als zuverlässigen Partner: [Werges Maschinenbau](https://www.werges.de/)
+in Deutschland als zuverlässigen Partner: https://www.werges.de/.
+### Logistik
+* Für den **Transport** empfehlen wir unseren Kunden <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
-Für den **Transport** empfehlen wir unseren Kunden whta<a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
-
-## Feedback
-**Kontakt über unser Helpdesk!** Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
+## Kontakt
+Feedback oder Fragen über unserer Helpdesk via [Mail](mailto:support@livespotting.com). Gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
 
 ## Social Media
 Seit über 10 Jahren bietet livespotting.com Streaming-Lösungen für Tourismus, Hotels, Resorts, Vergnügungsparks, Naturschutzgebiete und mehr. Neben der Wartung eines Netzwerks von über 200 Live-Webcams ist livespotting auf die Software-Entwicklung und Installation von anspruchsvollen Live-Streaming-Lösungen spezialisiert. <a href="https://www.google.com/search?ei=i7GJX5b4E7LjkgXwq6PoBA&q=madeforlive&oq=madeforlive&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMggIABAIEA0QHjIICAAQCBANEB4yCAgAEAgQDRAeMggIABAIEA0QHjoGCAAQFhAeOggIABAWEAoQHjoFCAAQsQM6BAguEEM6AggAOggILhCxAxCDAToHCC4QQxCTAjoHCAAQsQMQQzoECAAQQzoFCC4QsQM6BwguELEDEEM6CAgAELEDEIMBOgYIABAKEEM6BAgAEAo6BAguEAo6BggAEAoQHlC9Klj1MmC8NWgAcAB4AYAB2AGIAaAKkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjW6fDKrLnsAhWysaQKHfDVCE0Q4dUDCA0&uact=5" target="_blank">#madeforlive</a>
