@@ -43,10 +43,10 @@ Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
-**Available for both iOS and Android.**
+**Feuerverzinkt — vibrationsarm — effektiv**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=350>
 </p>
 
 ## Funktionen
