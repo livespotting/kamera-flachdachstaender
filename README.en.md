@@ -24,7 +24,6 @@ With the practical livespotting flat roof stand, you can mount your pan-tilt cam
 > **Send us a picture of your construction! We publish everything in this GitHub repo and via livespotting.com with a link the project.
 > 
 
-
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
@@ -106,6 +105,12 @@ In the download file are all files that are necessary for a professional impleme
 * Excel - Assembly BOM and single part BOM in tabular format as ODS file
 * PDF - For all assemblies and individual parts
 * STEP - ISO-10303 STEP Product Data for assemblies and single parts
+
+>
+>
+> We do not have an English version of the files for the construction yet. The drawings can be understood by a metalworker if he cannot read German. Thank you for your understanding.
+>
+>
 
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
