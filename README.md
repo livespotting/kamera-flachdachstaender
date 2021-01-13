@@ -3,7 +3,7 @@
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
 Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstrukionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
-**100% kostenlos, 100% Open Source und 100% #madeforlive** ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://twitter.com/livespotting)
+**100% kostenlos, 100% Open Source und 100% #madeforlive** 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -113,3 +113,19 @@ Für den **Transport** empfehlen wir <a href="https://www.lemmtransporte.de/" ta
 
 ## Lizenz
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+
+
+## Social Media
+**❓Melden Sie sich bei unseren Live-Streaming-Experten, wenn Sie eine kostenlose Beratung vorm Kauf Ihrer Netzwerkkamera wünschen.**
+
+Seit über 10 Jahren bietet livespotting.com Streaming-Lösungen für Tourismus, Hotels, Resorts, Vergnügungsparks, Naturschutzgebiete und mehr. Neben der Wartung eines Netzwerks von über 200 Live-Webcams ist livespotting auf die Software-Entwicklung und Installation von anspruchsvollen Live-Streaming-Lösungen spezialisiert. <a href="https://www.google.com/search?ei=i7GJX5b4E7LjkgXwq6PoBA&q=madeforlive&oq=madeforlive&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMggIABAIEA0QHjIICAAQCBANEB4yCAgAEAgQDRAeMggIABAIEA0QHjoGCAAQFhAeOggIABAWEAoQHjoFCAAQsQM6BAguEEM6AggAOggILhCxAxCDAToHCC4QQxCTAjoHCAAQsQMQQzoECAAQQzoFCC4QsQM6BwguELEDEEM6CAgAELEDEIMBOgYIABAKEEM6BAgAEAo6BAguEAo6BggAEAoQHlC9Klj1MmC8NWgAcAB4AYAB2AGIAaAKkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjW6fDKrLnsAhWysaQKHfDVCE0Q4dUDCA0&uact=5" target="_blank">#madeforlive</a>
+
+###🌎  Follow livespotting.com
+● <a href="https://www.google.com/search?source=hp&ei=quORX6PpMvLGxgPoxr0I&q=livespotting&oq=livespotting&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAELEDEIMBOgUIABCxAzoCCC46CAguELEDEIMBOgUILhCxAzoLCC4QsQMQgwEQkwI6BAgAEApKBQgHEgExSgUICRIBMVDRCliFFmCkF2gAcAB4AIABW4gBtgeSAQIxMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwij5rXB_cjsAhVyo3EKHWhjDwEQ4dUDCAc&uact=5" target="_blank">livespotting bei Google</a> 
+● Hashtag <a href="https://facebook.livespotting.com" target="_blank">#madeforlive</a>
+● Facebook <a href="https://facebook.livespotting.com" target="_blank">https://facebook.livespotting.com</a>
+● YouTube <a href="https://youtube.livespotting.com" target="_blank">https://youtube.livespotting.com</a>
+● Twitch <a href="https://twitch.livespotting.com" target="_blank">https://twitch.livespotting.com</a>
+● Twitter <a href="https://twitter.livespotting.com" target="_blank">https://twitter.livespotting.com</a>
+● Instagram <a href="https://instagram.livespotting.com" target="_blank">https://instagram.livespotting.com</a>
+● Linkedin <a href="https://linkedin.livespotting.com" target="_blank">https://linkedin.livespotting.com</a>
