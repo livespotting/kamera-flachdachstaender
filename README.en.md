@@ -106,7 +106,7 @@ In the download file are all files that are necessary for a professional impleme
 * PDF - For all assemblies and individual parts
 * STEP - ISO-10303 STEP Product Data for assemblies and single parts
 
-**We do not have an English version of the files for the construction yet. The drawings can be understood by a metalworker if he cannot read German. Thank you for your understanding. 
+### We do not have an English version of the files for the construction yet. The drawings can be understood by a metalworker if he cannot read German. Thank you for your understanding. 
 
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
