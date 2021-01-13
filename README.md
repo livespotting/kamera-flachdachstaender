@@ -45,7 +45,7 @@ Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. 
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 ## Funktionen
-Was sind die Vorteile dieses Kameraständers von für Flachdächer?
+Was sind die Eigenschaften dieses Kameraständers für Flachdächer?
 
 * Vibrationsarme Konstruktion
 * Für schwere Kameras 20 kg+ geeignet
