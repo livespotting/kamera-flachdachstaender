@@ -3,12 +3,18 @@
   <img src = "https://github.com/datarhei/roof-stand/blob/main/3dmodel.gif?raw=true" width=700>
 </p>
 Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Neige Kamera oder statische Webcam im Handumdrehen auf Balkon, Terrasse oder eben Flachdach. Dank der Möglichkeit, den Ständer mit bis zu acht standard Betonplatten zu beschweren, stehen auch große, windanfällige und schwere Kameras völlig fest und sicher. Die professionellen Konstrukionszeichnungen dürfen durch den Nutzer verändert werden und garantieren einen optimalen Grad der Anpassung für jede Installation. Dateien stehen als DXF, Exel, PDF und STEP zur Verfügung.
-**100% kostenlos, 100% Open Source und 100% #madeforlive** 
+100% kostenlos, 100% Open Source und 100% #madeforlive** 
+
+
+> 
+> **Schicken Sie uns ein Bild Ihrer Konstruktion zu! Wir veröffentlichen alles in diesem Repo und im social Media von livespotting.com mit einem Link auf Ihr Projekt.**
+> 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Inhaltsverzeichnis
 
+- [Lizenz](#lizenz)
 - [Einleitung](#einleitung)
 - [Funktionen](#funktionen)
 - [Baugruppen](#baugruppen)
@@ -16,9 +22,11 @@ Mit dem praktischen livespotting Flachdachständer montieren Sie Ihre Schwen-Nei
 - [Download](#download)
 - [Partner](#partner)
 - [Feedback](#feedback)
-- [Lizenz](#lizenz)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Lizenz
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
 
 ## Einleitung
 Wenn eine Netzwerkkamera auf einem Flachdach installiert werden muss ist ein FLachdachständer meistens die einzige Möglichkeit der Befestigung für die Geräte. Durch die notwendigkeit einer schweren vibrationsarmen Konstruktion ist der Aufwand für den Bau und Transport des sperrigen Teils zum Instatllationsort sehr hoch. Mit den professionellen Bauplänen unseres Dachständers kann jedermann mit entsprechendem Fachwissen unsere bewährte Konstruktion nutzen und Vor-Ort bauen lassen. Der Transport und Installationsaufwand wird niedrig und durch die fertigen Baupläne ist eine schnelle Umsetzung gesichert. Die frei vefügbaren Dateien sind von Profies nach ISO erstellt und sind in CAD-Programmen wie AutoCAD und FreeCAD nutzbar. Jeder kann die Baupläne downloaden zum Metalbauer Vor-Ort oder der Werkstatt Ihrer Firma geben und produzieren lassen. 
@@ -101,23 +109,15 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 **URL/URL DOWNLOAD LINK ZIP HIER HIN**
 
 ## Partner
-Sollten Sie keinen **Metalbauer** finden oder keine Werkstatt im Betrieb haben, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
-in Deutschland. [Werges Maschinenbau](https://www.werges.de/)
+Sollten Sie keine geeignete Firma für die Konstruktion finden, empfehlen wir <a href="https://www.werges.de/" target="_blank">Werges Maschinenbau</a>
+in Deutschland als zuverlässigen Partner: [Werges Maschinenbau](https://www.werges.de/)
 
-Für den **Transport** empfehlen wir <a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
+Für den **Transport** empfehlen wir unseren Kunden whta<a href="https://www.lemmtransporte.de/" target="_blank">ML Manfred Lemm Transporte e.K.</a>
 
 ## Feedback
 **Kontakt über unser Helpdesk!** Sie können uns gerne Feedback oder Fragen über unserer Helpdesk [Mail](mailto:support@livespotting.com) schicken. Oder gerne direkt auf GitHub [file an issue](https://github.com/datarhei/roof-stand/issues/new). Wenn Du Konstrukteur bist kannst Du gerne Deine Vorschläge in das Open Source Dachständerprojekt einfließen lassen. 
 
-**Schicken Sie uns ein Bild Ihrer Konstruktion zu! Wir veröffentlichen alles in diesem Repo und im social Media von livespotting.com mit einem Link auf Ihr Projekt.**
-
-## Lizenz
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
-
-
 ## Social Media
-**❓Melden Sie sich bei unseren Live-Streaming-Experten, wenn Sie eine kostenlose Beratung vorm Kauf Ihrer Netzwerkkamera wünschen.**
-
 Seit über 10 Jahren bietet livespotting.com Streaming-Lösungen für Tourismus, Hotels, Resorts, Vergnügungsparks, Naturschutzgebiete und mehr. Neben der Wartung eines Netzwerks von über 200 Live-Webcams ist livespotting auf die Software-Entwicklung und Installation von anspruchsvollen Live-Streaming-Lösungen spezialisiert. <a href="https://www.google.com/search?ei=i7GJX5b4E7LjkgXwq6PoBA&q=madeforlive&oq=madeforlive&gs_lcp=CgZwc3ktYWIQAzIGCAAQDRAeMggIABAIEA0QHjIICAAQCBANEB4yCAgAEAgQDRAeMggIABAIEA0QHjoGCAAQFhAeOggIABAWEAoQHjoFCAAQsQM6BAguEEM6AggAOggILhCxAxCDAToHCC4QQxCTAjoHCAAQsQMQQzoECAAQQzoFCC4QsQM6BwguELEDEEM6CAgAELEDEIMBOgYIABAKEEM6BAgAEAo6BAguEAo6BggAEAoQHlC9Klj1MmC8NWgAcAB4AYAB2AGIAaAKkgEFNy40LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjW6fDKrLnsAhWysaQKHfDVCE0Q4dUDCA0&uact=5" target="_blank">#madeforlive</a>
 
 ###🌎  Follow livespotting.com
