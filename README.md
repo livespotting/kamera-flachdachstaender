@@ -47,6 +47,7 @@ View repository and user information, control your notifications and even manage
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=350>
+  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-2.png?raw=true" width=350>
 </p>
 
 ## Funktionen
