@@ -33,7 +33,7 @@ Verlassen Sie sich auf unsere mehr als 10 jährige Erfahrung und nutzen Sie die 
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
 </p>
 
-**Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
+ℹ️ **Lokale Wirtschaft unterstützen - Umweltbewusst handeln!**
 Arbeiten Sie mit lokalen Firmen zusammen und stärken so die Wirtschaft in ihrer Region. Die schwere Konstruktion muss nicht unbedingt den langen Weg über eine Spedition gehen. Die verwendeten Waschbetonplatten sind in jedem Baumarkt erhältlich.
 
 ## Funktionen
