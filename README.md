@@ -38,7 +38,7 @@ Natürlich eignet sich die Konstruktion zur Befestigung nicht nur für Webcams. 
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-on-roof.jpg?raw=true" width=350>
-  <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-original.png?raw=true" width=350>
+  <img src = "https://raw.githubusercontent.com/livespotting/kamera-flachdachstaender/main/flachdachstaender-original.jpg?raw=true" width=350>
 </p>
 
 **Lokale Wirtschaft unterstützen und umweltbewusst handeln!**
