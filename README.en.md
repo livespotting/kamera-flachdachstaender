@@ -73,7 +73,7 @@ What are the advantages of this camera stand of for flat roofs?
 ## Assemblies
 A complete list of assemblies can be found as a PDF in the download file at the end of this README.
 
-| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
 |---------------------------	|---------------------	|-----------	|------------------	|
 | W-0040781                 	| MBG Kamerahalterung 	| 1         	| Montagebaugruppe 	|
 | W-0040772                 	| SBG Gestell         	| 1         	| Schweißbaugruppe 	|
@@ -84,7 +84,7 @@ A complete list of assemblies can be found as a PDF in the download file at the 
 ## Single-Part
 A complete list of the egg parts list can be found as a PDF in the download file.
 
-| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
 |---------------------------	|---------------------------------------	|-----------	|-----------------	|------------------	|
 | W-0040762                 	| Winkel                                	| 4         	| S235JR          	| Laser-/ Kantteil 	|
 | W-0040764                 	| Grundblech                            	| 1         	| S235JR          	| Laserteil        	|
@@ -109,7 +109,7 @@ In the download file are all files that are necessary for a professional impleme
 
 ### We do not have an English version of the files for the construction yet. The drawings can be understood by a metalworker if he cannot read German. Thank you for your understanding. 
 
-**URL/URL DOWNLOAD LINK ZIP HIER HIN**
+Donwload alle files: https://github.com/livespotting/kamera-flachdachstaender/blob/main/download-livespotting-flachdachstaender-all-files.zip
 
 ## Partner
 ### Metal construction
