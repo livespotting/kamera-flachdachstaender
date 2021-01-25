@@ -63,7 +63,7 @@ What are the advantages of this camera stand of for flat roofs?
 * Construction can be used for weather station and additional cameras
 * Building plans and construction drawing 100% open source
 * Available free 
-* Hey it`s open soruce software!
+* Hey it`s open source software!
 
 <p align="center">
   <img src = "https://github.com/datarhei/roof-stand/blob/main/flachdachstaender-1.png?raw=true" width=400>
