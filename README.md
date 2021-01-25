@@ -73,7 +73,7 @@ Was sind die Eigenschaften dieses Kameraständers für Flachdächer?
 ## Baugruppen
 Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfile am Ende dieser README.
 
-| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung  	| Stückzahl 	| Baugruppenart    	|
 |---------------------------	|---------------------	|-----------	|------------------	|
 | W-0040781                 	| MBG Kamerahalterung 	| 1         	| Montagebaugruppe 	|
 | W-0040772                 	| SBG Gestell         	| 1         	| Schweißbaugruppe 	|
@@ -84,7 +84,7 @@ Ein vollständiges Liste der Baugruppen befindet sich als PDF in dem Downloadfil
 ## Einzelstückliste
 Ein vollständiges Liste der Eizelstückliste befindet sich als PDF in dem Downloadfile.
 
-| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
+| Zeichnungs-/Artikelnummer 	| Bauteilbezeichnung                    	| Stückzahl 	| Werkstoff       	| Teileart         	|
 |---------------------------	|---------------------------------------	|-----------	|-----------------	|------------------	|
 | W-0040762                 	| Winkel                                	| 4         	| S235JR          	| Laser-/ Kantteil 	|
 | W-0040764                 	| Grundblech                            	| 1         	| S235JR          	| Laserteil        	|
@@ -107,8 +107,8 @@ In der Downloadatei befinden sich alle Dateien die für eine professionelle Umse
 * PDF - Für alle Baugruppen und Einzelteile
 * STEP - ISO-10303 STEP Product Data für Baugruppen und Einzelteile
 
-Download Datei über diesen Link: // Preview (SE 13.1.21)
-https://github.com/livespotting/kamera-flachdachstaender/blob/main/livespotting_kamerastaender_V_2_0.zip
+### Download aller Dateien über diesen Link:
+https://github.com/livespotting/kamera-flachdachstaender/blob/main/download-livespotting-flachdachstaender-all-files.zip
 
 ## Partner
 ### Metallbau
